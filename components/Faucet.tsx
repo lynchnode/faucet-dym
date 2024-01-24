@@ -39,10 +39,10 @@ export default function Faucet() {
       <div className="flex min-h-screen items-center justify-center py-12 px-4 sm:px-6 lg:px-8 bg-black">
         <div className="w-full max-w-md space-y-8">
           <div>
-            <img className="mx-auto h-28 w-auto" src="logo.png" alt="RedBlank Faucet" />
-            <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-white">RedBlank Faucet</h2>
+            <img className="mx-auto h-28 w-auto" src="logo.png" alt="LynchNode Faucet" />
+            <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-white">LynchNode Faucet</h2>
             <p className="mt-2 text-center text-sm text-gray-600">
-              <a href="https://portal.dymension.xyz/rollapp/redblank_3440319-1" target="_blank" rel="noreferrer" className="font-medium text-indigo-600 hover:text-indigo-500">
+              <a href="https://portal.dymension.xyz/rollapp/LynchNode_3440319-1" target="_blank" rel="noreferrer" className="font-medium text-indigo-600 hover:text-indigo-500">
                 After you get the Faucet, try Deposit here.
               </a>
             </p>
